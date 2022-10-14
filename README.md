@@ -1,4 +1,5 @@
-<img src="https://i.ibb.co/NtmyW1M/11.png" width=100px />
+<img src="https://i.ibb.co/NtmyW1M/11.png" width=50px />
+
 ## :link: Aplicação
 Portfólio desenvolvido com projeto pessoal para apresentação profissional<\br>
 e apresentação de cursos que realizo e seus devidos certificados;
