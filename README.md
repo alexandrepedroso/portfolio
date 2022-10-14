@@ -15,5 +15,5 @@ foi idealizada por mim, como também a inserção e configuração das framework
 - __JAVASCRIPT__: Execução de funções referentes aos modais, scroll para voltar página e animação de digitação da primeira seção;
 ## :link:	Acesso
 
-Disponível em : *https://alexandrepedroso.netlify.app/
+Disponível em : https://alexandrepedroso.netlify.app/
 
