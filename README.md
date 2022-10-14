@@ -13,7 +13,7 @@ foi idealizada por mim, como também a inserção e configuração das framework
 - __BOOTSTRAP__: Framework utilizada para estilização de cards da página "Cursos" e dos modais;</br>
 - __TYPED.JS__: Biblioteca utilizada para configurar animação de digitação;</br>
 - __JAVASCRIPT__: Execução de funções referentes aos modais, scroll para voltar página e animação de digitação da primeira seção;
-## ⚙️	Utilizando a aplicação
+## ⚙️	Acesso
 
 Disponível em : *https://alexandrepedroso.netlify.app/
 
