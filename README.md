@@ -1,10 +1,11 @@
 <img src="https://i.ibb.co/GpCnz7V/titulo.png" alt="titulo">
 
 ## :link: Aplicação
-Portfólio desenvolvido com projeto pessoal para apresentação profissional e apresentação de cursos que realizo e seus devidos certificados;
+Portfólio desenvolvido com projeto pessoal para apresentação profissional e apresentação de cursos que realizo e seus devidos certificados.
 
 ## :clipboard:	Objetivo do projeto e Estrutura
-Projeto criado com base em aulas que realizei durante minha trajetória como estudante. O design da página e montagem da estrutura de informações foi idealizada por mim, como também a inserção e configuração das frameworks e bibliotecas utilizadas.
+Projeto criado com base em aulas que realizei durante minha trajetória como estudante. O design da página e montagem da estrutura de inform-</br>
+ações foi idealizada por mim, como também a inserção e configuração das frameworks e bibliotecas utilizadas.
 
 ## :computer:	Tecnologias
 HTML: Estruturação
