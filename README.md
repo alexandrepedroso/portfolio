@@ -5,7 +5,7 @@ Portfólio desenvolvido com projeto pessoal para apresentação profissional<\br
 e apresentação de cursos que realizo e seus devidos certificados;
 
 ## :clipboard:	Objetivo do projeto e Estrutura
-Projeto criado com base em aulas que realizei durante minha trajetória<\br>
+Projeto criado com base em aulas que realizei durante minha trajetória</br>
 como estudante. O design da página e montagem da estrutura de informações<\br>
 foi idealizada por mim, como também a inserção e configuração das frameworks<\br>
 bibliotecas utilizadas.
