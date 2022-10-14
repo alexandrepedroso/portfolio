@@ -8,10 +8,10 @@ Projeto criado com base em aulas que realizei durante minha trajetória como est
 foi idealizada por mim, como também a inserção e configuração das frameworks e bibliotecas utilizadas.
 
 ## :computer:	Tecnologias
-__HTML__: Estruturação
-__CSS__: Estilização
-__BOOTSTRAP__: Framework utilizada para estilização de cards da página "Cursos" e dos modais;
-__TYPED.JS__: Biblioteca utilizada para configurar animação de digitação;
+__HTML__: Estruturação</br>
+__CSS__: Estilização</br>
+__BOOTSTRAP__: Framework utilizada para estilização de cards da página "Cursos" e dos modais;</br>
+__TYPED.JS__: Biblioteca utilizada para configurar animação de digitação;</br>
 __JAVASCRIPT__: Execução de funções referentes aos modais, scroll para voltar página e animação de digitação da primeira seção;
 ## ⚙️	Utilizando a aplicação
 
