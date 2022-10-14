@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/DrYX8zK/titulo.png" alt="titulo">
+<img src="https://i.ibb.co/GpCnz7V/titulo.png" alt="titulo">
 
 ## :link: Aplicação
 Portfólio desenvolvido com projeto pessoal para apresentação profissional e apresentação de cursos que realizo e seus devidos certificados;
